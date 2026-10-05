@@ -1,3 +1,4 @@
+
 # Accidental Oversharing Detector (`Summa`)
 
 An AI-driven and computer-vision powered privacy protection tool that detects sensitive personal data (PII, GPS coordinates, QR codes, and barcodes) in photos before they are posted online.
@@ -61,3 +62,4 @@ Expected response:
 {"status": "ok"}
 ```
 Interactive API docs are available at [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs).
+
