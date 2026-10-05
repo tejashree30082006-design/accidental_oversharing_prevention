@@ -1,0 +1,9 @@
+﻿# Runtime dependencies
+pytesseract>=0.3.10
+Pillow>=10.0.0
+opencv-python-headless>=4.8.0
+numpy>=1.24.0
+
+# Test dependencies
+pytest>=7.4.0
+pytest-cov>=4.1.0
